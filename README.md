@@ -35,7 +35,6 @@
 #  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{Ayush312003}/count.svg)
 <div align="center">
-<img src="https://img.shields.io/github/followers/Ayush312003.svg?style=social&label=Follow"></img>
 </div>
 
 <a href="https://github.com/ayush312003">
