@@ -32,6 +32,12 @@
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+#  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Visitor Count](https://profile-counter.glitch.me/{Ayush312003}/count.svg)
+<div align="center">
+<img src="https://img.shields.io/github/followers/Ayush312003.svg?style=social&label=Follow"></img>
+</div>
+
 <a href="https://github.com/ayush312003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush312003&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Ayush312003/github-readme-stats" />
