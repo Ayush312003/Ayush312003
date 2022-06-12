@@ -39,10 +39,11 @@
 
 <a href="https://github.com/ayush312003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush312003&theme=buefy&show_icons=true" />
-  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&theme=tokyonight"/>
 </a>
-
 <br/>
+## 📶 Stats:<br><br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Ayush312003/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
