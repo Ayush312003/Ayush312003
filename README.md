@@ -41,7 +41,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush312003&theme=buefy&show_icons=true" />
  
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&layout=compact)](https://github.com/ayush312003/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&layout=compact)](https://github.com/ayush312003/github-readme-stats)
 
 <br/>
 
