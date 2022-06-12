@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Websites/Android Apps.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
-- 💼 &nbsp; Working as an Intern at KGE Technologies Ltd.
+- 💼 &nbsp; Intern at KGE Technologies Ltd.
 - 🌱 &nbsp; Inclined towards Data Structures & Algorithms.
 - ✍️ &nbsp; Learning more about IOT Applications and Cryptology.
 
