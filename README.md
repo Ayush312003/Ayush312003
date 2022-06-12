@@ -39,8 +39,9 @@
 
 <a href="https://github.com/ayush312003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush312003&theme=buefy&show_icons=true" />
-  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&theme=tokyonight"/>
+ 
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush312003&layout=compact)](https://github.com/ayush312003/github-readme-stats)
 
 <br/>
 
