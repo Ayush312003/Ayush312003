@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing Websites/Android Apps.
+- 🤔 &nbsp; Exploring Machine Learning and many new technologies for developing Websites/Android Apps.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
-- 🌱 &nbsp; Inclined towards Data Structures & Algorithms.
-- ✍️ &nbsp; Learning more about IOT Applications and Cryptology.
+- 🌱 &nbsp; Consistent at implementing Data Structures & Algorithms.
+- ✍️ &nbsp; I also have a command over IOT Applications and Cryptology.
 
 Portfolio- https://ayushsinghportfolio.tk/
 
