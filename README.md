@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
 - 🤔 &nbsp; Exploring Machine Learning and web technologies.
 - 🌱 &nbsp; Consistent at implementing Data Structures & Algorithms.
-- ✍️ &nbsp; I also have a command over IOT Applications and Cryptology.
+- ✍️ &nbsp; Command over IOT Applications and Cryptology.
 
 Portfolio- https://ayushsinghportfolio.tk/
 
