@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring Machine Learning and many new technologies for developing Websites/Android Apps.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
+- 🤔 &nbsp; Exploring Machine Learning and web technologies.
 - 🌱 &nbsp; Consistent at implementing Data Structures & Algorithms.
 - ✍️ &nbsp; I also have a command over IOT Applications and Cryptology.
 
