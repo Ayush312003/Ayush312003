@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
-- 🤔 &nbsp; Exploring Machine Learning and web technologies.
+- 🤔 &nbsp; Exploring Machine Learning and Web technologies.
 - 🌱 &nbsp; Consistent at implementing Data Structures & Algorithms.
 - ✍️ &nbsp; Command over Deep Learning, Web Development, IOT Applications and Cryptology.
 
