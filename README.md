@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Ayush.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
