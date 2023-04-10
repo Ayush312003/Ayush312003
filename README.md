@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
 - 🤔 &nbsp; Exploring Machine Learning and Web Technologies.
-- 🌱 &nbsp; Consistent at implementing Data Structures & Algorithms.
+- 🌱 &nbsp; MERN Stack developer.
 - ✍️ &nbsp; Command over Deep Learning, Web Development, IOT Applications and Cryptology.
 
 Portfolio- https://ayushsinghportfolio.tk/
