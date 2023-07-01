@@ -19,7 +19,7 @@ Portfolio- https://ayushsinghportfolio.tk/
   Git, GitHub, Google Cloud Platform, Jenkins, Selenium, Docker, DockerHub.
 - 🔧 &nbsp;
   Android Studio, Visual Studio, Eclipse.
-- 🖥  Side Gigs: &nbsp;
+- 🖥 &nbsp; Side Gigs:
   Photoshop,
   Lightroom,
   Adobe Premiere Pro,
