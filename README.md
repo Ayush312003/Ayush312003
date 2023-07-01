@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
-- 🤔 &nbsp; Exploring Machine Learning and Web Technologies.
+- 🤔 &nbsp; .
 - 🌱 &nbsp; MERN Stack developer.
-- ✍️ &nbsp; Command over Deep Learning, Web Development, IOT Applications and Cryptology.
+- ✍️ &nbsp; Command over Full Stack Web Development, deep learning, IOT Applications, and Cryptology.
 
 Portfolio- https://ayushsinghportfolio.tk/
 
