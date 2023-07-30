@@ -14,7 +14,7 @@ Portfolio- https://ayushsinghportfolio.tk/
 - 💻 &nbsp;
   C, C++, Java
 - 🌐 &nbsp;
-  HTML, CSS, JavaScript, PHP, ReactJs, NodeJs, ExpressJs, MongoDB.
+  HTML, CSS, JavaScript, PHP, ReactJs, Redux Toolkit, NodeJs, ExpressJs, MongoDB.
 - ⚙️ &nbsp;
   Git, GitHub, Google Cloud Platform, Jenkins, Selenium, Docker, DockerHub.
 - 🔧 &nbsp;
@@ -23,7 +23,9 @@ Portfolio- https://ayushsinghportfolio.tk/
   Photoshop,
   Lightroom,
   Adobe Premiere Pro,
-  Blender.
+  Blender,
+  Maya,
+  3dsMax.
 
 #  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{Ayush312003}/count.svg)
