@@ -2,23 +2,20 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era University.
+- 🎓 &nbsp; Software Engineer at JMAN Group.
 - 🤔 &nbsp; Open to collaborative projects.
-- 🌱 &nbsp; MERN Stack developer.
-- ✍️ &nbsp; Command over Full Stack Web Development, deep learning, IOT Applications, and Cryptology.
+- 🌱 &nbsp; Full Stack developer and Data Engineer.
 
-Portfolio- https://ayushsinghportfolio.tk/
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  C, C++, Java
+  C, C++, Java, python.
 - 🌐 &nbsp;
-  HTML, CSS, JavaScript, PHP, ReactJs, Redux Toolkit, NodeJs, ExpressJs, MongoDB.
+  HTML, CSS, JavaScript, ReactJs, Redux Toolkit, NodeJs, ExpressJs, MongoDB.
 - ⚙️ &nbsp;
-  Git, GitHub, Google Cloud Platform, Jenkins, Selenium, Docker, DockerHub.
-- 🔧 &nbsp;
-  Android Studio, Visual Studio, Eclipse.
+  Git, GitHub, Google Cloud Platform, Jenkins, Selenium, Docker, Azure Cloud.
+
 - 🖥 &nbsp; Side Gigs:
   Photoshop,
   Lightroom,
