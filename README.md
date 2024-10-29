@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software Engineer at JMAN Group.
+- 🎓 &nbsp; Software Engineer at Salescode.ai.
 - 🤔 &nbsp; Open to collaborative projects.
 - 🌱 &nbsp; Full Stack developer and Data Engineer.
 
