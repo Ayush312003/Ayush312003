@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Full Stack Developer at Salescode.ai.
+- 🎓 &nbsp; Software Engineer (Backend) at Salescode.ai.
 - 🤔 &nbsp; Open to collaborative projects.
 
 
