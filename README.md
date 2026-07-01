@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software Engineer (Backend) at Salescode.ai.
+- 🎓 &nbsp; Software Engineer (Backend) at Flipkart.
 - 🤔 &nbsp; Open to collaborative projects.
 
 
